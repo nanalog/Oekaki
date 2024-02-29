@@ -11,17 +11,18 @@
 
 ### 構成
 
-* .
-* |__ main.go
-* |__ game.go
-* |__ uiimage.go
-* |__ image
-*     |__ bar.png
-*     |__ hude.png
-*     |__ return.png
-*     |__ sq.png
-*     |__ trash.png
-
+<pre>
+.
+|__ main.go
+|__ game.go
+|__ uiimage.go
+|__ image
+|__ bar.png
+|__ hude.png
+    |__ return.png
+    |__ sq.png
+    |__ trash.png
+</pre>
 
 ### 使用しているパッケージ
 
@@ -43,7 +44,8 @@
 * Ebitengine　が主。仕組みの理解からUI部分であるキー入力、マウス入力の所作
 
 ## Copyright of images
-
+<pre>
 [illustAC](https://www.ac-illust.com/main/) has the copyright of images under the img directory.
 [Icon-Icons](https://icon-icons.com/) has the copyright of images under the img directory.
 [iStock](https://www.istockphoto.com/jp/) has the copyright of images under the img directory.
+</pre>
