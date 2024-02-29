@@ -11,16 +11,16 @@
 
 ### 構成
 
-.
-|__ main.go
-|__ game.go
-|__ uiimage.go
-|__ image
-    |__ bar.png
-    |__ hude.png
-    |__ return.png
-    |__ sq.png
-    |__ trash.png
+* .
+* |__ main.go
+* |__ game.go
+* |__ uiimage.go
+* |__ image
+*     |__ bar.png
+*     |__ hude.png
+*     |__ return.png
+*     |__ sq.png
+*     |__ trash.png
 
 
 ### 使用しているパッケージ
