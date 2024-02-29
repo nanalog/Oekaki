@@ -6,7 +6,7 @@ import (
 	ebiten "github.com/hajimehoshi/ebiten/v2"
 	"github.com/hajimehoshi/ebiten/v2/ebitenutil"
 )
-//型定義
+//型定義をした
 var (
 	Pimg *ebiten.Image
 	Timg *ebiten.Image
