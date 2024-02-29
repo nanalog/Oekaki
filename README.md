@@ -25,7 +25,7 @@
 </pre>
 
 ### 使用しているパッケージ
-
+<pre>
 * fmt
 * os
 * image/color
@@ -35,7 +35,7 @@
 * github.com/hajimehoshi/ebiten/v2"
 * github.com/hajimehoshi/ebiten/v2/ebitenutil
 * github.com/hajimehoshi/ebiten/v2/inpututil
-
+</pre>
 ### 学んだこと
 
 * Ebitengine
